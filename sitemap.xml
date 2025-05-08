@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:40553/posts/exercise-4/</loc>
+    <loc>https://largocreatura.github.io/pruebaWebHugo/posts/exercise-4/</loc>
     <lastmod>2025-04-29T15:30:56+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:40553/</loc>
+    <loc>https://largocreatura.github.io/pruebaWebHugo/</loc>
     <lastmod>2025-04-29T15:30:56+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:40553/posts/</loc>
+    <loc>https://largocreatura.github.io/pruebaWebHugo/posts/</loc>
     <lastmod>2025-04-29T15:30:56+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:40553/posts/exercise-3/</loc>
+    <loc>https://largocreatura.github.io/pruebaWebHugo/posts/exercise-3/</loc>
     <lastmod>2025-04-07T17:16:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:40553/posts/exercise-2/</loc>
+    <loc>https://largocreatura.github.io/pruebaWebHugo/posts/exercise-2/</loc>
     <lastmod>2025-04-07T16:57:15+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:40553/posts/exercise-1/</loc>
+    <loc>https://largocreatura.github.io/pruebaWebHugo/posts/exercise-1/</loc>
     <lastmod>2025-04-07T16:11:56+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:40553/categories/</loc>
+    <loc>https://largocreatura.github.io/pruebaWebHugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:40553/tags/</loc>
+    <loc>https://largocreatura.github.io/pruebaWebHugo/tags/</loc>
   </url>
 </urlset>
